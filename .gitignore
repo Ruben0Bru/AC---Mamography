@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+# Datos del dataset (no publicar)
+*.dcm
+*.tcia
+data/

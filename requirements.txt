@@ -1,6 +1,5 @@
-torch
-torchvision
-pydicom
+gradio==5.49.1
+onnxruntime
 numpy
 Pillow
-matplotlib
+pydicom
